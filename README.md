@@ -2,3 +2,10 @@
 
 
 # Para ingresar al modelo, haga clic en Modelo ARIMA.ipynb y siga el paso a paso del modelo.
+
+
+# Estudiantes:
+
+# CRISTHIAN JOHAN RODRÍGUEZ CARDONA
+# DEISY MARILIN CABRERA SAAVEDRA
+# GLADYS ADRIANA OBANDO BAQUERO
